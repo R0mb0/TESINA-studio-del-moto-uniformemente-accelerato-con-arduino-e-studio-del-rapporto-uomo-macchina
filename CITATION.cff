@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "This project has been done by"
+authors:
+- family-names: "Rombaldoni"
+  given-names: "Francesco"
+title: "TESINA-studio-del-moto-uniformemente-accelerato-con-arduino-e-studio-del-rapporto-uomo-macchina"
+version: 1.0.0
+date-released: 2025-04-07
+url: "https://github.com/R0mb0/TESINA-studio-del-moto-uniformemente-accelerato-con-arduino-e-studio-del-rapporto-uomo-macchina"
